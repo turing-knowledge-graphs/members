@@ -25,3 +25,9 @@
 - Esther Mondragón, Eduardo Alonso and Niklas H. Kokkola. **Associative learning should go deep**. Trends in Cognitive Sciences 21 (11), 822-825. ([PDF](https://www.cal-r.org/mondragon/home/Papers/Mondragon_Alonso_Kokkola-2017.pdf))
 - Erik B. Myklebust, Ernesto Jimenez Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. **Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings**. (Under review). ([Codes](https://github.com/NIVA-Knowledge-Graph/)) ([PDF](http://www.semantic-web-journal.net/system/files/swj2658.pdf))
 
+
+---
+
+<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/teaching/main/city/city-logo.jpg" width="60" alt="City">   [City, University of London](https://www.city.ac.uk/)
+
+
