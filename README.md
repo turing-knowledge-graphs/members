@@ -1,5 +1,6 @@
 ## Members of the Knowledge Graphs Interest Group at The Turing
  
+- [University of Oxford](https://github.com/turing-knowledge-graphs/members/tree/main/university_oxford)
 - [City, University of London](https://github.com/turing-knowledge-graphs/members/tree/main/city)
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
 - And many others...
