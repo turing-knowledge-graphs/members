@@ -1,6 +1,6 @@
 ## City, University of London
 
-[Research Center for Adaptive Computing Systems and Machine Learning](https://researchcentres.city.ac.uk/machine-learning), and [CitAI, Artificial Intelligence Research Centre](https://cit-ai.net/).
+[Research Center for Adaptive Computing Systems and Machine Learning](https://www.city.ac.uk/research/centres/acsml), and [CitAI, Artificial Intelligence Research Centre](https://cit-ai.net/).
 
 ### Topics
 - Knowledge Graph Embeddings
