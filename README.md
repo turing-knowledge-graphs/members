@@ -3,6 +3,7 @@
 - [University of Oxford](https://github.com/turing-knowledge-graphs/members/tree/main/university_oxford)
 - [City, University of London](https://github.com/turing-knowledge-graphs/members/tree/main/city)
 - [Durham University](https://github.com/turing-knowledge-graphs/members/tree/main/durham_university)
+- [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
 - List to be completed.
 
