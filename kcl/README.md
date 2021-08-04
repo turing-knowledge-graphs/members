@@ -30,6 +30,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/members/main/kcl/kcl-logo.png" width="60" alt="City">   [King's College London](https://www.kcl.ac.uk)
+<img src="https://raw.githubusercontent.com/albertmeronyo/members/main/kcl/kcl-logo.png" width="60" alt="KCL">   [King's College London](https://www.kcl.ac.uk)
 
 
