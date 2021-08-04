@@ -5,6 +5,7 @@
 - [Durham University](https://github.com/turing-knowledge-graphs/members/tree/main/durham_university)
 - [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
+- [King's College London](https://github.com/turing-knowledge-graphs/members/tree/main/kcl)
 - List to be completed.
 
 ---
