@@ -12,7 +12,7 @@
 ### Members
 - [Ernesto Jiménez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz)
 - [Artur d'Avila Garcez](https://www.city.ac.uk/about/people/academics/artur-davila-garcez)
-- [Esther Mondragrón](https://www.city.ac.uk/about/people/academics/esther-mondragon)
+- [Esther Mondragón](https://www.city.ac.uk/about/people/academics/esther-mondragon)
 - [Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso)
 - [Tillman Weyde](https://www.city.ac.uk/about/people/academics/tillman-weyde)
 
