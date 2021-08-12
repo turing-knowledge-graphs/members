@@ -32,6 +32,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/members/main/lumc/lumc.jpg" width="60" alt="City">   [LUMC](https://www.lumc.nl/)
+<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/members/main/lumc/lumc.jpg" width="60" alt="lumc">   [LUMC](https://www.lumc.nl/)
 
 
