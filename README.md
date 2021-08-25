@@ -7,6 +7,7 @@
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
 - [King's College London](https://github.com/turing-knowledge-graphs/members/tree/main/kcl)
 - [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
+- [University of Edinburgh](https://github.com/turing-knowledge-graphs/members/tree/main/edinburgh_university) 
 - List to be completed.
 
 ---
