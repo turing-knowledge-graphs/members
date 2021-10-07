@@ -9,6 +9,7 @@
 - [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
 - [University of Edinburgh](https://github.com/turing-knowledge-graphs/members/tree/main/edinburgh_university)
 - [Birmingham City University](https://github.com/turing-knowledge-graphs/members/tree/main/bcu)
+- [European Bioinformatics Institute (EMBL-EBI)](https://github.com/turing-knowledge-graphs/members/tree/main/ebi)
 - List to be completed.
 
 ---
