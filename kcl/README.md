@@ -18,6 +18,7 @@
 - [Jacopo de Berardinis](https://www.kcl.ac.uk/people/jacopo-de-berardinis)
 - [Gabriel Maia Rocha Amaral](https://www.kcl.ac.uk/people/gabriel-maia-rocha-amaral)
 - [Elisavet Koutsiana](https://www.kcl.ac.uk/people/elisavet-koutsiana)
+- [Barbara McGillivray](https://www.turing.ac.uk/people/researchers/barbara-mcgillivray)
 
 
 ### Key publications
