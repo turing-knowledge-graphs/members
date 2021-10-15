@@ -10,6 +10,8 @@
 - [University of Edinburgh](https://github.com/turing-knowledge-graphs/members/tree/main/edinburgh_university)
 - [Birmingham City University](https://github.com/turing-knowledge-graphs/members/tree/main/bcu)
 - [European Bioinformatics Institute (EMBL-EBI)](https://github.com/turing-knowledge-graphs/members/tree/main/ebi)
+- [Heriot-Watt University](https://github.com/turing-knowledge-graphs/members/tree/main/heriot-watt-university)
+- [University of East Anglia (UEA)](https://github.com/turing-knowledge-graphs/members/tree/main/UEA)
 - List to be completed.
 
 ---
