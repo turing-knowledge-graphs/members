@@ -12,6 +12,7 @@
 - [European Bioinformatics Institute (EMBL-EBI)](https://github.com/turing-knowledge-graphs/members/tree/main/ebi)
 - [Heriot-Watt University](https://github.com/turing-knowledge-graphs/members/tree/main/heriot-watt-university)
 - [University of East Anglia (UEA)](https://github.com/turing-knowledge-graphs/members/tree/main/UEA)
+- [Beazley Plc](https://github.com/turing-knowledge-graphs/members/tree/main/beazley)
 - List to be completed.
 
 ---
