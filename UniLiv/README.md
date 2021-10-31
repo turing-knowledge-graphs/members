@@ -1,6 +1,7 @@
 # University of Liverpool #
 
    ### [Argumentation and Knowledge Representation Group](https://www.liverpool.ac.uk/computer-science/research/research-groups/know-rep/ "Argumentation and Knowledge Representation Group") ###
+   ### [Robotics and Autonomous Systems Group](https://www.liverpool.ac.uk/computer-science/research/research-groups/robotics-auton-systems/ "Robotics and Autonomous Systems Group") ###
 
 # Topics # 
 
