@@ -10,4 +10,7 @@
 * Autonomous Intelligent Systems
 
 # Members #
-*[Frank Wolter](https://cgi.csc.liv.ac.uk/~frank/ "Frank Wolter")
+* [Valentina Tamma](https://www.csc.liv.ac.uk/~valli/Home.html "Valentina Tamma")
+* [Terry R. Payne](https://www.csc.liv.ac.uk/~trp/Home.html "Terry R. Payne")
+* [Boris Konev](https://www.csc.liv.ac.uk/~konev/ "Boris Konev")
+* [Frank Wolter](https://cgi.csc.liv.ac.uk/~frank/ "Frank Wolter")
