@@ -1,4 +1,6 @@
- [Web and Internet Science Group](https://www.wais.ecs.soton.ac.uk/), and [Agents, Interaction and Complexity Group](https://www.aic.ecs.soton.ac.uk/).
+## University of Southampton
+
+[Web and Internet Science Group](https://www.wais.ecs.soton.ac.uk/), and [Agents, Interaction and Complexity Group](https://www.aic.ecs.soton.ac.uk/).
 
 ### Topics
 - Knowledge Representation and Reasoning
