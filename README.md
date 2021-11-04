@@ -1,5 +1,6 @@
 ## Members of the Knowledge Graphs Interest Group at The Turing
  
+- [University of Southampton](https://github.com/turing-knowledge-graphs/members/tree/main/university_southampton)
 - [University of Oxford](https://github.com/turing-knowledge-graphs/members/tree/main/university_oxford)
 - [City, University of London](https://github.com/turing-knowledge-graphs/members/tree/main/city)
 - [Durham University](https://github.com/turing-knowledge-graphs/members/tree/main/durham_university)
