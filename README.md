@@ -18,6 +18,7 @@
 - [University of Liverpool](https://github.com/turing-knowledge-graphs/members/tree/main/UniLiv)
 - [Oxford Semantic Technologies](https://github.com/turing-knowledge-graphs/members/tree/main/oxfordsemantic)
 - [The Open University](https://github.com/turing-knowledge-graphs/members/tree/main/open_university)
+- [Defence Science and Technology Laboratory](https://github.com/turing-knowledge-graphs/members/tree/main/dstl)
 - [Imperial College London]
 - [IBM]
 - More members to come
