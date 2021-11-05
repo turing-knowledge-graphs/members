@@ -1,27 +1,38 @@
 ## Members of the Knowledge Graphs Interest Group at The Turing
+
+(More members to come)
+
+### Industry
+- [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
+- [Beazley Plc](https://github.com/turing-knowledge-graphs/members/tree/main/beazley)
+- [Oxford Semantic Technologies](https://github.com/turing-knowledge-graphs/members/tree/main/oxfordsemantic)
+- [IBM]
  
+###  Government
+- [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
+- [Defence Science and Technology Laboratory](https://github.com/turing-knowledge-graphs/members/tree/main/dstl)
+
+
+### Academia and research institutions
 - [University of Southampton](https://github.com/turing-knowledge-graphs/members/tree/main/university_southampton)
 - [University of Oxford](https://github.com/turing-knowledge-graphs/members/tree/main/university_oxford)
 - [City, University of London](https://github.com/turing-knowledge-graphs/members/tree/main/city)
 - [Durham University](https://github.com/turing-knowledge-graphs/members/tree/main/durham_university)
-- [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
-- [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
 - [King's College London](https://github.com/turing-knowledge-graphs/members/tree/main/kcl)
-- [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
 - [University of Edinburgh](https://github.com/turing-knowledge-graphs/members/tree/main/edinburgh_university)
 - [Birmingham City University](https://github.com/turing-knowledge-graphs/members/tree/main/bcu)
 - [European Bioinformatics Institute (EMBL-EBI)](https://github.com/turing-knowledge-graphs/members/tree/main/ebi)
 - [Heriot-Watt University](https://github.com/turing-knowledge-graphs/members/tree/main/heriot-watt-university)
 - [University of East Anglia (UEA)](https://github.com/turing-knowledge-graphs/members/tree/main/UEA)
-- [Beazley Plc](https://github.com/turing-knowledge-graphs/members/tree/main/beazley)
-- [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
 - [University of Liverpool](https://github.com/turing-knowledge-graphs/members/tree/main/UniLiv)
-- [Oxford Semantic Technologies](https://github.com/turing-knowledge-graphs/members/tree/main/oxfordsemantic)
 - [The Open University](https://github.com/turing-knowledge-graphs/members/tree/main/open_university)
-- [Defence Science and Technology Laboratory](https://github.com/turing-knowledge-graphs/members/tree/main/dstl)
 - [Imperial College London]
-- [IBM]
-- More members to come
+
+### Overseas
+- [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
+- [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
+
+
 
 ---
 
