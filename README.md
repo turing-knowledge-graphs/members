@@ -6,7 +6,8 @@
 - [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
 - [Beazley Plc](https://github.com/turing-knowledge-graphs/members/tree/main/beazley)
 - [Oxford Semantic Technologies](https://github.com/turing-knowledge-graphs/members/tree/main/oxfordsemantic)
-- [IBM]
+- [Niaxo](https://github.com/turing-knowledge-graphs/members/tree/main/niaxo)
+- [IBM]()
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
@@ -26,7 +27,7 @@
 - [University of East Anglia (UEA)](https://github.com/turing-knowledge-graphs/members/tree/main/UEA)
 - [University of Liverpool](https://github.com/turing-knowledge-graphs/members/tree/main/UniLiv)
 - [The Open University](https://github.com/turing-knowledge-graphs/members/tree/main/open_university)
-- [Imperial College London]
+- [Imperial College London]()
 
 ### Overseas
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
