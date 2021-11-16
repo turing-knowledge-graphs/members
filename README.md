@@ -27,6 +27,7 @@
 - [University of East Anglia (UEA)](https://github.com/turing-knowledge-graphs/members/tree/main/UEA)
 - [University of Liverpool](https://github.com/turing-knowledge-graphs/members/tree/main/UniLiv)
 - [The Open University](https://github.com/turing-knowledge-graphs/members/tree/main/open_university)
+- [Cardiff University](https://github.com/turing-knowledge-graphs/members/tree/main/cardiff_university)
 - [Imperial College London]()
 
 ### Overseas
