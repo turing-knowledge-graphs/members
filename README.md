@@ -28,6 +28,7 @@
 - [University of Liverpool](https://github.com/turing-knowledge-graphs/members/tree/main/UniLiv)
 - [The Open University](https://github.com/turing-knowledge-graphs/members/tree/main/open_university)
 - [Cardiff University](https://github.com/turing-knowledge-graphs/members/tree/main/cardiff_university)
+- [University of Cambridge](https://github.com/turing-knowledge-graphs/members/tree/main/cambridge_university)
 - [Imperial College London]()
 
 ### Overseas
