@@ -23,7 +23,7 @@
 - Artur S. d'Avila Garcez, Marco Gori, Luís C. Lamb, Luciano Serafini, Michael Spranger, Son N. Tran. **Neural-symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning**. FLAP 6(4): 611-632, 2019. ([PDF](https://collegepublications.co.uk/ifcolog/?00033))
 - Niklas H. Kokkola, Esther Mondragón, and Eduardo Alonso. **A double error dynamic asymptote model of associative learning**. Psychological Review 126 (4), 506-549. 2019. ([PDF](https://www.biorxiv.org/content/early/2018/12/15/210674))
 - Esther Mondragón, Eduardo Alonso and Niklas H. Kokkola. **Associative learning should go deep**. Trends in Cognitive Sciences 21 (11), 822-825. ([PDF](https://www.cal-r.org/mondragon/home/Papers/Mondragon_Alonso_Kokkola-2017.pdf))
-- Erik B. Myklebust, Ernesto Jimenez Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. **Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings**. (Under review). ([Codes](https://github.com/NIVA-Knowledge-Graph/)) ([PDF](http://www.semantic-web-journal.net/system/files/swj2658.pdf))
+- Erik B. Myklebust, Ernesto Jimenez Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. **Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings**. Semantic Web Volume 13, Number 3, 2022. ([Codes](https://github.com/NIVA-Knowledge-Graph/)) ([Paper](https://arxiv.org/abs/2112.04605))
 
 
 ---
