@@ -4,7 +4,7 @@
 
 ### Topics
 - Knowledge Graph Embeddings
-- Neural Symbolic Integration
+- [Neural Symbolic Integration](https://www.city-data-science-institute.com/nesy)
 - Knowledge Graphs for Data Science
 - Knowledge Graphs and Graph Neural Networks
 - Connectionism and associative learning
@@ -15,6 +15,9 @@
 - [Esther Mondragón](https://www.city.ac.uk/about/people/academics/esther-mondragon)
 - [Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso)
 - [Tillman Weyde](https://www.city.ac.uk/about/people/academics/tillman-weyde)
+
+### Teaching material
+- [Semantic Web Technologies and Knowledge Graphs (SWT&KG)](https://github.com/turing-knowledge-graphs/teaching/tree/main/city)
 
 
 ### Key publications
