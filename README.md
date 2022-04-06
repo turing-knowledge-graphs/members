@@ -9,6 +9,7 @@
 - [Niaxo](https://github.com/turing-knowledge-graphs/members/tree/main/niaxo)
 - [CMCL Innovations](https://github.com/turing-knowledge-graphs/members/tree/main/CMCL)
 - [IBM]()
+- [Telicent](https://github.com/turing-knowledge-graphs/members/tree/main/telicent)
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
