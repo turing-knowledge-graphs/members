@@ -10,6 +10,7 @@
 - [CMCL Innovations](https://github.com/turing-knowledge-graphs/members/tree/main/CMCL)
 - [IBM]()
 - [Telicent](https://github.com/turing-knowledge-graphs/members/tree/main/telicent)
+- [Dyad AI Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/dyad)
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
