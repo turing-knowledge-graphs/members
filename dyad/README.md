@@ -17,4 +17,6 @@
 - [Artemis Parvizi](https://github.com/Guruette)
 - [Alexandra Shatova](https://github.com/alexandrashatova1)
 
+---
+
 ![](dyad-logo.png)
