@@ -34,6 +34,7 @@
 - [University of Cambridge](https://github.com/turing-knowledge-graphs/members/tree/main/cambridge_university)
 - [Imperial College London]()
 - [University of Sheffield](https://github.com/turing-knowledge-graphs/members/tree/main/sheffield_university)
+- [University College London (UCL)](https://github.com/turing-knowledge-graphs/members/tree/main/UCL)
 
 ### Overseas
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
