@@ -40,6 +40,7 @@
 ### Overseas
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
 - [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
+- [Aalborg University](https://github.com/turing-knowledge-graphs/members/tree/main/Aalborg)
 
 
 
