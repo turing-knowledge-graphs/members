@@ -12,6 +12,7 @@
 - [Telicent](https://github.com/turing-knowledge-graphs/members/tree/main/telicent)
 - [Dyad AI Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/dyad)
 - [HASH](https://github.com/turing-knowledge-graphs/members/tree/main/hash)
+- [Chilton Computing Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/chilton)
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
