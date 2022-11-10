@@ -1,6 +1,6 @@
 ## Members of the Knowledge Graphs Interest Group at The Turing
 
-(More members to come)
+Updated on November 10, 2022
 
 ### Industry
 - [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
