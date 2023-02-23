@@ -37,6 +37,7 @@ Updated on November 10, 2022
 - [Imperial College London]()
 - [University of Sheffield](https://github.com/turing-knowledge-graphs/members/tree/main/sheffield_university)
 - [University College London (UCL)](https://github.com/turing-knowledge-graphs/members/tree/main/UCL)
+- [University of Bristol](https://github.com/turing-knowledge-graphs/members/tree/main/university_bristol)
 
 ### Overseas
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
