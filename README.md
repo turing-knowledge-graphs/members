@@ -1,6 +1,6 @@
 ## Members of the Knowledge Graphs Interest Group at The Turing
 
-Updated on November 10, 2022
+Updated on March 03, 2023
 
 ### Industry
 - [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
@@ -43,8 +43,7 @@ Updated on November 10, 2022
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
 - [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
 - [Aalborg University](https://github.com/turing-knowledge-graphs/members/tree/main/Aalborg)
-
-
+- [Eindhoven University of Technology (TU/e)](https://github.com/turing-knowledge-graphs/members/tree/main/Eindhoven)
 
 ---
 
