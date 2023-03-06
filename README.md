@@ -13,6 +13,7 @@ Updated on March 03, 2023
 - [Dyad AI Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/dyad)
 - [HASH](https://github.com/turing-knowledge-graphs/members/tree/main/hash)
 - [Chilton Computing Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/chilton)
+- [Curlew Research](https://github.com/turing-knowledge-graphs/members/tree/main/CurlewResearch)
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
