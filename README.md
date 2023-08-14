@@ -45,6 +45,7 @@ Updated on March 03, 2023
 - [Leiden University Medical Center (LUMC)](https://github.com/turing-knowledge-graphs/members/tree/main/lumc)
 - [Aalborg University](https://github.com/turing-knowledge-graphs/members/tree/main/Aalborg)
 - [Eindhoven University of Technology (TU/e)](https://github.com/turing-knowledge-graphs/members/tree/main/Eindhoven)
+- [Data ScienceTech Institute.](https://github.com/turing-knowledge-graphs/members/tree/main/DSTI)
 
 ---
 
