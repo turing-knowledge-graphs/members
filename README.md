@@ -4,7 +4,6 @@ Updated on March 03, 2023
 
 ### Industry
 - [Seme4 Ltd.](https://github.com/turing-knowledge-graphs/members/tree/main/seme4)
-- [Beazley Plc](https://github.com/turing-knowledge-graphs/members/tree/main/beazley)
 - [Oxford Semantic Technologies](https://github.com/turing-knowledge-graphs/members/tree/main/oxfordsemantic)
 - [Niaxo](https://github.com/turing-knowledge-graphs/members/tree/main/niaxo)
 - [CMCL Innovations](https://github.com/turing-knowledge-graphs/members/tree/main/CMCL)
