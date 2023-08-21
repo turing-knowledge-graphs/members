@@ -14,6 +14,7 @@ Updated on March 03, 2023
 - [HASH](https://github.com/turing-knowledge-graphs/members/tree/main/hash)
 - [Chilton Computing Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/chilton)
 - [Curlew Research](https://github.com/turing-knowledge-graphs/members/tree/main/CurlewResearch)
+- [KI Insurance](https://github.com/turing-knowledge-graphs/members/tree/main/ki-insurance)
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
