@@ -39,6 +39,7 @@ Updated in June, 2023
 - [University of Sheffield](https://github.com/turing-knowledge-graphs/members/tree/main/sheffield_university)
 - [University College London (UCL)](https://github.com/turing-knowledge-graphs/members/tree/main/UCL)
 - [University of Bristol](https://github.com/turing-knowledge-graphs/members/tree/main/university_bristol)
+- [University of Manchester](https://github.com/turing-knowledge-graphs/members/tree/main/university_manchester)
 
 ### Overseas
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
