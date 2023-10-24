@@ -14,6 +14,7 @@ Updated in June, 2023
 - [Chilton Computing Ltd](https://github.com/turing-knowledge-graphs/members/tree/main/chilton)
 - [Curlew Research](https://github.com/turing-knowledge-graphs/members/tree/main/CurlewResearch)
 - [KI Insurance](https://github.com/turing-knowledge-graphs/members/tree/main/ki-insurance)
+- [AstraZeneca](https://github.com/turing-knowledge-graphs/members/tree/main/AstraZeneca)
  
 ###  Government
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
