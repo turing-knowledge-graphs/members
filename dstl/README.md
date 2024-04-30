@@ -20,8 +20,10 @@
 ### Members
 
 - Paul Cripps
+- Emma Bowley
 - Bob Madahar
 - Gavin Pearson
+- Rebecca Rafferty
 - Todd Robinson
 
 ### Key Publications
