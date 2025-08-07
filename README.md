@@ -42,6 +42,7 @@ Updated in April, 2024
 - [University of Bristol](https://github.com/turing-knowledge-graphs/members/tree/main/university_bristol)
 - [University of Manchester](https://github.com/turing-knowledge-graphs/members/tree/main/university_manchester)
 - [University of Warwick](https://github.com/turing-knowledge-graphs/members/tree/main/warwick)
+- [University of Michigan](https://github.com/turing-knowledge-graphs/members/tree/main/michigan)
 
 ### Overseas
 - [STI Innsbruck](https://github.com/turing-knowledge-graphs/members/tree/main/sti_innsbruck)
