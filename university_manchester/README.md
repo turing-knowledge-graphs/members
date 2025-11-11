@@ -1,14 +1,18 @@
 ## The University of Manchester
 
-[Information Management](https://www.cs.manchester.ac.uk/research/expertise/information-management/), and [Formal Methods](https://www.cs.manchester.ac.uk/research/expertise/formal-methods/).
+### Members
+- [Information Management](https://www.cs.manchester.ac.uk/research/expertise/information-management/)
+   - [Jiaoyan Chen](https://chenjiaoyan.github.io/)
+   - [Uli Sattler](http://www.cs.man.ac.uk/~sattler/)
+
+- [Formal Methods](https://www.cs.manchester.ac.uk/research/expertise/formal-methods/)
+  - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/)
 
 ### Topics
-- Knowledge Engineering
-- Knowledge Graph & Large Language Model
-- Semantic Table Understanding
-- Biomedical Ontology
-
-### Members
-- [Jiaoyan Chen](https://chenjiaoyan.github.io/)
-- [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/)
+- Knowledge Representation and Reasoning
+- Web Ontology Language, The Semantic Web
+- Knowledge Engineering, Biomedical Ontology
+- Computational Logic, Automated Reasoning
+- Neural-symbolic AI
+- Knowledge Graph, NLP, Machine Learning, Lanugage Model
 
